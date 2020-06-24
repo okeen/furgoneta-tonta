@@ -15,3 +15,5 @@ Circuit:
  [https://www.circuito.io/app?components=9443,12027,12027,12027,200000,417987,7654321]
  
  
+sudo pip3 install rpi_ws281x adafruit-circuitpython-neopixel
+sudo python3 -m pip install --force-reinstall adafruit-blinka
