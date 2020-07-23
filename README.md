@@ -17,3 +17,6 @@ Circuit:
  
 sudo pip3 install rpi_ws281x adafruit-circuitpython-neopixel
 sudo python3 -m pip install --force-reinstall adafruit-blinka
+
+![PIC 1](https://user-images.githubusercontent.com/783430/88280968-22b4b000-cce7-11ea-8a69-58b0c0579646.jpeg)
+![PIC 2](https://user-images.githubusercontent.com/783430/88280989-2811fa80-cce7-11ea-8201-2f207007fe61.jpeg)
